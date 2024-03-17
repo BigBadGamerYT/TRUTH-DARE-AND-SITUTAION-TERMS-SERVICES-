@@ -20,7 +20,13 @@
 
 9. **Termination**: We reserve the right to terminate or suspend access to the Bot for any user who violates these Terms of Service.
 
-10. **Contact**: If you have any questions or concerns about these Terms of Service, please contact us at:
+10. **Developer's Right**: We have the right to BLACKLIST you from using our "bot" if u are caught breaking the rules of the bot.. You cannot argue with the developer's, You can appeal and incase it gets approved you will be unlisted.
+
+11. **In Bot Rules**": Check out `+rules` or `/rules` in our bot and accept the rules. **INCASE U DO NOT CHECK THE RULES AND U ARE CAUGHT BREAKING THEM AND YOU GET BLACKLISTED. WE WONT BE RESPOSIBLE FOR THAT. THIS IS YOUR FAULT IF U HAVEN'T CHECKED OUT OUR RULES.**
+Why we are saying this?
+Ans: We are saying this because u must have used our command `/help` or `+help` to view the list of all the commands and in the list `RULE` command is mentioned even after checking that and ignoring we cannot tell if u read or not since we do not keep a data of which user has accepted the Rules and which user using the bot didnt..
+
+12. **Contact**: If you have any questions or concerns about these Terms of Service, please contact us at:
 By email: gammerboy1091@gmail.com
 By Discord Support Server: https://discord.gg/PZNHMuP3kK  [FASTER RESPONSE]
 
