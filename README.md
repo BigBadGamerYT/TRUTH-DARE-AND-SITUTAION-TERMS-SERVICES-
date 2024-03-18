@@ -1,5 +1,5 @@
-**Terms of Service for Truth and Dare Bot**
-1. **Acceptance of Terms**: By using the Truth and Dare Bot ("the Bot"), you agree to comply with these Terms of Service. If you do not agree with any part of these terms, you may not use the Bot.
+**Terms of Service for Truth Dare and Situation Bot**
+1. **Acceptance of Terms**: By using the Truth Dare and Situation Bot ("the Bot"), you agree to comply with these Terms of Service. If you do not agree with any part of these terms, you may not use the Bot.
 
 2. **Age Restriction**: The Bot is intended for users who are at least 13 years old. If you are under the age of 13, you are not permitted to use the Bot.
 
